@@ -1,0 +1,20 @@
+good morning
+bonjour
+good evening
+bonsoir
+please
+s'il vous plaît
+thank you
+merci
+you're welcome
+de rien
+excuse me
+pardon
+yes
+oui
+no
+non
+hello
+bonjour
+goodbye
+au revoir
